@@ -28,6 +28,9 @@ permalink: /about/
     <th colspan="2">携帯電話 </th>
     <td colspan="2">９５５３９６０９</td>
   </tr>
+  
+  <tr><td></td></tr>
+  <tr><td></td></tr>
 
   <tr>
     <th>年</th>
@@ -35,8 +38,6 @@ permalink: /about/
     <th>学歴</th>
   </tr>
   
-  &nbsp; 
-&nbsp; 
 
   <tr>
     <td>平成　２４</td>
