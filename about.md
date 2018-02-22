@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 履歴書
-<table>
+<table style="width:100%">
   <tr>
     <th>名詞</th>
     <td>Ignacio Zamudio</td>
@@ -28,8 +28,6 @@ permalink: /about/
 
 
 <table style="width:100%">
-&emsp;
-&emsp;
   <tr>
     <th>年</th>
     <th>月</th> 
