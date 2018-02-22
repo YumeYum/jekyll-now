@@ -11,7 +11,7 @@ permalink: /about/
 <table style="width:100%">
   <tr>
     <th>名詞</th>
-    <td　colspan="1">Ignacio Zamudio</td>
+    <td colspan="3">Ignacio Zamudio</td>
   </tr>
   
   <tr>
