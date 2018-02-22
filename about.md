@@ -43,9 +43,6 @@ permalink: /about/
     <td>３</td>
     <td>Ingeniería en Informática, Duoc UC</td>
   </tr>
-  <tr>
-
-  </tr>
 </table>
 
 
