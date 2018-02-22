@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
 
 
 
@@ -29,7 +26,7 @@ permalink: /about/
   
   
   <tr>
-    <th colspan="2"> 携帯電話 </th>
+    <th colspan="2">携帯電話 </th>
     <td colspan="2">９５５３９６０９</td>
   </tr>
 
@@ -53,8 +50,7 @@ permalink: /about/
     <td>Ingeniería en Informática, Duoc UC</td>
   </tr>
 </table>
-</body>
-</html>
+
 
 
 ### Contact me
