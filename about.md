@@ -18,13 +18,13 @@ permalink: /about/
   
   <tr>
     <th>現在書</th>
-    <td>Andrés Amenábar Vergara, Maipú</td>
+    <td colspan="2">Andrés Amenábar Vergara, Maipú</td>
   </tr>
   
   
   <tr>
     <th>携帯電話</th>
-    <td>９５５３９６０９</td>
+    <td colspan="2">９５５３９６０９</td>
   </tr>
 
   <tr>
