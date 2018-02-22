@@ -8,7 +8,7 @@ permalink: /about/
 
 
 履歴書
-<table style="width:100%">
+<table style="width:100%" align="left">
   <tr>
     <th>名詞</th>
     <td colspan="3">Ignacio Zamudio</td>
