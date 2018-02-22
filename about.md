@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 ---
 layout: page
 title: About
 permalink: /about/
 ---
-
+<!DOCTYPE html>
 
 
 
