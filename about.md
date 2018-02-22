@@ -49,6 +49,15 @@ permalink: /about/
     <td>３</td>
     <td>Ingeniería en Informática, Duoc UC</td>
   </tr>
+    <tr><td></td></tr>
+  <tr><td></td></tr>
+  
+  <tr>
+  <th>趣味、特技</th>
+  <td>日本語（中級）、英語（上級） Java, C#(.NET), HTML, CSS, SQL,  Python、
+  　　　Linux(Arch Linux, Red Hat, CentOS), MS Windows (Windows Desktop y 2000 server)、　GIT(GitHub)
+  </td><  
+  </tr>
 </table>
 
 
