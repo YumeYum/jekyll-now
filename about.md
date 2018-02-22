@@ -20,7 +20,7 @@ permalink: /about/
   
   <tr>
     <th>現在書</th>
-    <td colspan="2">Andrés Amenábar Vergara, Maipú</td>
+    <td colspan="2">Andrés Amenábar Vergara, Maipú,　チリ</td>
   </tr>
   
   
