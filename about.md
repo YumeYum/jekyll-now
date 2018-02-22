@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
 
 履歴書
 <table style="width:100%">
@@ -47,7 +53,8 @@ permalink: /about/
     <td>Ingeniería en Informática, Duoc UC</td>
   </tr>
 </table>
-
+</body>
+</html>
 
 
 ### Contact me
