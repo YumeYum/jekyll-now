@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 履歴書
-<table style="width:100%">
+<table>
   <tr>
     <th>名詞</th>
     <td>Ignacio Zamudio</td>
