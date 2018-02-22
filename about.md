@@ -10,7 +10,6 @@ permalink: /about/
     <th>名詞</th>
     <td>Ignacio Zamudio</td>
   </tr>
-  <tr>
     <td colspan="2">平成　２　年　９月　１３日生 （満　２７　歳）　　　　　　　男</td>
   </tr>
     <tr>
