@@ -23,7 +23,7 @@ permalink: /about/
   
   
   <tr>
-    <th>携帯電話</th>
+    <th>携帯電話 colspan="2"</th>
     <td colspan="2">９５５３９６０９</td>
   </tr>
 
