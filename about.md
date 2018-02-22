@@ -9,7 +9,7 @@ permalink: /about/
 <table style="width:100%">
   <tr>
     <th>名詞</th>
-    <td>Ignacio Zamudio</td>
+    <td　colspan="2">Ignacio Zamudio</td>
   </tr>
   
   <tr>
