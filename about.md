@@ -11,7 +11,7 @@ permalink: /about/
 <table style="width:100%" align="left">
   <tr>
     <th>名詞</th>
-    <td colspan="3">Ignacio Zamudio</td>
+    <td colspan="3">Ignacio</td>
   </tr>
   
   <tr>
@@ -20,7 +20,7 @@ permalink: /about/
   
   <tr>
     <th>現在書</th>
-    <td colspan="2">Andrés Amenábar Vergara, Maipú,　チリ</td>
+    <td colspan="2">チリ</td>
   </tr>
   
   
@@ -48,6 +48,11 @@ permalink: /about/
     <td>平成　２７</td>
     <td>３</td>
     <td>Ingeniería en Informática, Duoc UC</td>
+  </tr>
+  <tr>
+    <td>今年</td>
+    <td></td>
+    <td>JLPT　N1 受験希望者</td>
   </tr>
     <tr><td></td></tr>
   <tr><td></td></tr>
