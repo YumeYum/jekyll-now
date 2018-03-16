@@ -70,5 +70,5 @@ permalink: /about/
 ### Contact me
 
 
-[ig.zamudio@alumnos.duoc.cl](mailto:ig.zamudio@alumnos.duoc.cl)
+[memoria002@gmail.com](mailto:memoria002@gmail.com)
 
